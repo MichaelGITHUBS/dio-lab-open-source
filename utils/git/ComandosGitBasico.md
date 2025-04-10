@@ -65,6 +65,11 @@
 • GIT COMMIT --AMEND -> Edita a mensagem do último commit;
 
 
+• GIT SHOW CÓDIGO_DO_COMMIT -> Mostra detalhes de um commit específico (mensagens, autor, arquivos alterados, etc);
+
+ 
+• GIT CONFIG --GLOBAL_USER.NAME "SEU NOME" -> Define o nome de usuário para todos os projetos;
+
 
 • GIT RESET --* + CÓDIGO DO COMMIT (OBTIDO NO GIT LOG) -> Restaura estado do commit
 
